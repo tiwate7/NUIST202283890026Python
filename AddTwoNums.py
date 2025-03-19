@@ -1,7 +1,7 @@
 #Add two numbers in python
 #Author:Zheng Zhongxing
-#Using the + operator
-a=15
-b=12
+#Using user input
+a=float(input("First Number:"))
+b=float(input("Second Number:"))
 res=a+b
 print(res)
